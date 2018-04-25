@@ -7,3 +7,5 @@ After running
 I got an error
 
 	[ERROR   ] Error encountered during module reload. Modules were not reloaded.
+
+But everything was installed succesfully!
